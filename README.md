@@ -17,6 +17,8 @@ Descargue e instale BlueStacks desde el siguiente enlace: [Descargar BlueStacks]
 
 2. Una vez seleccionada la opción  a la ubicación donde guardó el archivo .APK y selecciónelo para instalarlo.
 
+![image](https://github.com/user-attachments/assets/2ab39f8c-1f82-4234-84d4-22028110299b)
+
 3. Una vez instalada la aplicación, regrese a la pantalla de inicio de BlueStacks.
 
 ![image](https://github.com/user-attachments/assets/4ad19aed-c1cf-4e93-8cf5-c289bfd05826)
